@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.25)  27 JUN 2021 17:56
+This is pdfTeX, Version 3.14159265-2.6-1.40.18 (TeX Live 2017/Debian) (preloaded format=pdflatex 2019.8.25)  28 JUN 2021 15:42
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -298,78 +298,121 @@ e
 ))
 Package caption Info: Begin \AtBeginDocument code.
 Package caption Info: End \AtBeginDocument code.
+
+Overfull \hbox (68.2434pt too wide) in paragraph at lines 57--57
+ [][] 
+ []
+
 <dode.pdf, id=1, 120.45pt x 114.4275pt>
 File: dode.pdf Graphic file (type pdf)
 <use dode.pdf>
-Package pdftex.def Info: dode.pdf  used on input line 91.
+Package pdftex.def Info: dode.pdf  used on input line 106.
 (pdftex.def)             Requested size: 119.50148pt x 113.52975pt.
 
-Underfull \hbox (badness 1577) in paragraph at lines 102--103
+Underfull \hbox (badness 1577) in paragraph at lines 117--118
 \OT1/cmr/m/n/10 Aus die-sem Grund ist es \OT1/cmr/bx/n/10 sehr wich-tig\OT1/cmr
 /m/n/10 , dass Sie
- []
-
-
-Underfull \hbox (badness 5504) in paragraph at lines 111--112
-\OT1/cmr/m/n/10 Die ein-ge-reich-ten bzw. kon-ver-tier-ten PDF-Dateien
- []
-
-
-Underfull \hbox (badness 1178) in paragraph at lines 111--112
-\OT1/cmr/m/n/10 Or-ga-ni-sa-to-ren der Ta-gung be-hal-ten sich vor, PDF-
  []
 
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}
 
 
  <./dode.pdf>]
-Underfull \hbox (badness 10000) in paragraph at lines 126--127
+Underfull \hbox (badness 5504) in paragraph at lines 126--127
+\OT1/cmr/m/n/10 Die ein-ge-reich-ten bzw. kon-ver-tier-ten PDF-Dateien
+ []
+
+
+Underfull \hbox (badness 1178) in paragraph at lines 126--127
+\OT1/cmr/m/n/10 Or-ga-ni-sa-to-ren der Ta-gung be-hal-ten sich vor, PDF-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 141--142
 []\OT1/cmr/m/n/10 Benutzen Sie bit-te die fol-gen-den Be-feh-le, um
  []
 
 
-Underfull \hbox (badness 7238) in paragraph at lines 126--127
+Underfull \hbox (badness 7238) in paragraph at lines 141--142
 []\OT1/cmr/m/n/10 Uberschriften zu de-fi-nie-ren: sec-ti-on*, sub-sec-ti-on*,
  []
 
-<Erwin.pdf, id=21, 241.90375pt x 242.9075pt>
+
+LaTeX Warning: Reference `fig:dode' on page 2 undefined on input line 146.
+
+
+LaTeX Warning: Reference `fig:Erwin' on page 2 undefined on input line 146.
+
+<Erwin.pdf, id=20, 241.90375pt x 242.9075pt>
 File: Erwin.pdf Graphic file (type pdf)
 <use Erwin.pdf>
-Package pdftex.def Info: Erwin.pdf  used on input line 134.
+Package pdftex.def Info: Erwin.pdf  used on input line 149.
 (pdftex.def)             Requested size: 113.81102pt x 114.28514pt.
 
-Underfull \hbox (badness 3019) in paragraph at lines 162--165
+LaTeX Warning: Citation `ArticleReference' on page 2 undefined on input line 17
+1.
+
+
+LaTeX Warning: Citation `BookReference' on page 2 undefined on input line 171.
+
+
+LaTeX Warning: Citation `URLReference' on page 2 undefined on input line 171.
+
+
+LaTeX Warning: Citation `PDFCreator' on page 2 undefined on input line 171.
+
+
+LaTeX Warning: Citation `Ghostware' on page 2 undefined on input line 171.
+
+
+LaTeX Warning: Reference `eq:FirstEquation' on page 2 undefined on input line 1
+73.
+
+
+Underfull \hbox (badness 3019) in paragraph at lines 177--180
 \OT1/cmr/m/n/10 Benutzen Sie f[]ur Glei-chun-gen statt der equation-
  []
 
-[2 <./Erwin.pdf>] [3
+[2 <./Erwin.pdf>]
 
-] (./template_daga.aux) ) 
+LaTeX Warning: Citation `PDFCreator' on page 3 undefined on input line 195.
+
+
+LaTeX Warning: Citation `Ghostware' on page 3 undefined on input line 195.
+
+[3
+
+] (./template_daga.aux)
+
+LaTeX Warning: There were undefined references.
+
+
+LaTeX Warning: Label(s) may have changed. Rerun to get cross-references right.
+
+ ) 
 Here is how much of TeX's memory you used:
- 3918 strings out of 492982
- 56152 string characters out of 6134896
- 132093 words of memory out of 5000000
+ 3917 strings out of 492982
+ 56147 string characters out of 6134896
+ 132006 words of memory out of 5000000
  7413 multiletter control sequences out of 15000+600000
- 10501 words of font info for 38 fonts, out of 8000000 for 9000
+ 10192 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  41i,11n,38p,517b,280s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/share/texlive/texmf-dist/fonts/type1/public/amsf
-onts/cm/cmbx10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/c
-m/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx
-8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb><
-/usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/s
-hare/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/t
-exlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/
-texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-d
-ist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/font
-s/type1/public/amsfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/
-public/amsfonts/cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
-msfonts/cm/cmti9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts
-/cm/cmtt10.pfb>
-Output written on template_daga.pdf (3 pages, 212258 bytes).
+</usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb></us
+r/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/shar
+e/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx9.pfb></usr/share/texli
+ve/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dis
+t/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/share/texlive/texmf-dist/fonts
+/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/
+public/amsfonts/cm/cmr7.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/a
+msfonts/cm/cmr8.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/
+cm/cmr9.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti9
+.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb>
+Output written on template_daga.pdf (3 pages, 213852 bytes).
 PDF statistics:
- 74 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+ 70 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
  11 words of extra memory for PDF output out of 10000 (max. 10000000)
 
